@@ -1,0 +1,6 @@
+Meter_ID,Billing_Period_Start,Billing_Period_End,kWh,Tariff,Site
+MTR001,2024-01-01,2024-01-31,4500,Business Standard,HQ
+MTR002,2024-01-01,2024-01-31,3200,Business Standard,Warehouse
+MTR001,2024-02-01,2024-02-28,4100,Business Standard,HQ
+MTR002,2024-02-01,2024-02-28,2900,Business Standard,Warehouse
+MTR003,2024-01-01,2024-01-31,1800,Business Standard,Office B
